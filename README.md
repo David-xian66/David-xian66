@@ -1,5 +1,5 @@
-### Hi there! 👋
-### Hi👋 There is David ²⁰²² (Xian66) ! 👋
+# Hi there! 👋
+Hi 👋 There is David ²⁰²² (Xian66) ! 👋
 -----
 
 <div align="center">
