@@ -4,8 +4,8 @@
 
 <div align="center">
 
-![Xian66's GitHub stats](https://github-readme-stats.vercel.app/api?username=xianyongjian080402&show_icons=true&theme=tokyonight&count_private=true&title_color=fff&bg_color=E0FFFF,87CEFA,1E90FF&text_color=FFEFD5&locale=cn&icon_color=DEB887)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xianyongjian080402&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Xian66's GitHub stats](https://github-readme-stats.vercel.app/api?username=xianyongjian080402&show_icons=true&theme=tokyonight&count_private=true&title_color=fff&bg_color=E0FFFF,87CEFA,1E90FF&text_color=FFEFD5&locale=cn&icon_color=DEB887&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xianyongjian080402&layout=compact&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
