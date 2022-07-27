@@ -37,7 +37,7 @@ Hi 👋 my name is David ²⁰²² (Xian66) ! 👋
 
 <img src="https://portrait.gitee.com/uploads/avatars/user/3206/9618169_xian66_1643017327.png!avatar200"/>
   
-<img src="https://gitee.com/xian66/minecraft-optimal-starter_2/raw/master/picture/SkyWorldStudio.png"/>
+[![Top Langs](https://gitee.com/xian66/minecraft-optimal-starter_2/raw/master/picture/SkyWorldStudio.png)](https://github.com/SkyWorldStudio)]
 
 </div>
 
