@@ -28,7 +28,7 @@ Hi 👋 my name is David ²⁰²² (Xian66) ! 👋
   - Zhihu <https://www.zhihu.com/people/ren-zhe-ai-ren-8647>
   - 网易云音乐 <https://music.163.com/#/user/home?id=4967302911>
 - ⚡  有趣的事情: 我比你想象的要年轻 😉
-- ⚠️  工作日时，联系方式可能都不管用哦～ 我看到了会及时处理哦～ 😘
+- ⚠️  工作日时，联系方式可能都不管用哦～ 所以大家别着急 😛 我看到了会及时(~神速~)处理哦～ 😘
 -----
 
 <div align="center">
