@@ -35,9 +35,7 @@ Hi 👋 my name is David ²⁰²² (Xian66) ! 👋
   
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&labelColor=black&color=inactive)](https://github.com/xianyongjian080402) [![Gitee](https://img.shields.io/badge/-Gitee-white?logo=Gitee&logoColor=white&labelColor=red&color=3D434E)](https://gitee.com/xian66)
 
-<img src="https://portrait.gitee.com/uploads/avatars/user/3206/9618169_xian66_1643017327.png!avatar200"/>
-  
-[![Top Langs](https://gitee.com/xian66/minecraft-optimal-starter_2/raw/master/picture/SkyWorldStudio.png)](https://github.com/SkyWorldStudio)]
+![头像](https://portrait.gitee.com/uploads/avatars/user/3206/9618169_xian66_1643017327.png!avatar200)[![Top Langs](https://gitee.com/xian66/minecraft-optimal-starter_2/raw/master/picture/SkyWorldStudio.png)](https://github.com/SkyWorldStudio)
 
 </div>
 
