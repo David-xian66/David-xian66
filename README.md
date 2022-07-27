@@ -1,5 +1,31 @@
 # Hi there! 👋
-Hi 👋 There is David ²⁰²² (Xian66) ! 👋
+Hi 👋 my name is David ²⁰²² (Xian66) ! 👋
+-----
+### 大家好呀 我是 David ²⁰²²
+- 🔭  我目前在研究网络安全(渗透等)、算法
+- 🌱  我目前正在学习：python(进阶)、Swift(初级)
+- 📖 经验
+  - 有长期 前段&后端 开发经验
+- 🧠 会什么？
+  - Python
+  - Html
+  - CSS
+  - Swift (学习中)
+  - 渗透 (学习中)
+  - C (会一点)
+  - C++ (会一点)
+- 📔  我目前所属 SkyWorldStudio工作室(原名：XiaoYiStudio) 
+  - [官网](https://skyworldstudio.top)
+  - [GitHub](https://github.com/SkyWorldStudio)
+  - [Gitee-已弃用](https://gitee.com/XYS-XiaoYiStudio)
+  - 简称：SWS 原名简称：XYS
+- 📫  联系方式:
+  - Email(工作室邮箱)-可能随时更换 请关注本页面: [david@skyworldstudio.top](mailto:david@skyworldstudio.top)
+  - GitHub <https://github.com/xianyongjian080402>
+  - Gitee <https://gitee.com/xian66>
+  - Zhihu <https://www.zhihu.com/people/ren-zhe-ai-ren-8647>
+- ⚡  有趣的事情: 我比你想象的要年轻 😉
+- ⚠️  工作日时，联系方式可能都不管用哦～ 我看到了会及时处理哦～ 😘
 -----
 
 <div align="center">
@@ -12,11 +38,19 @@ Hi 👋 There is David ²⁰²² (Xian66) ! 👋
 
 <div align="center">
 
-[![xianyongjian080402/Minecraft-Optimal-Starter_2](https://gitee.com/xian66/minecraft-optimal-starter_2/widgets/widget_card.svg?colors=4183c4,ffffff,ffffff,e3e9ed,666666,9b9b9b)](https://gitee.com/xian66/minecraft-optimal-starter_2)
-
-![Xian66's GitHub stats](https://github-readme-stats.vercel.app/api?username=xianyongjian080402&show_icons=true&theme=tokyonight&count_private=true&title_color=fff&bg_color=E0FFFF,87CEFA,1E90FF&text_color=FFEFD5&locale=cn&icon_color=DEB887&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xianyongjian080402&layout=compact&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
+<div align="center">
+
+![Xian66's GitHub stats](https://github-readme-stats.vercel.app/api?username=xianyongjian080402&show_icons=true&theme=tokyonight&count_private=true&title_color=fff&bg_color=E0FFFF,87CEFA,1E90FF&text_color=FFEFD5&locale=cn&icon_color=DEB887&count_private=true)
+
+</div>
+
+<div align="center">
+
+[![xianyongjian080402/Minecraft-Optimal-Starter_2](https://gitee.com/xian66/minecraft-optimal-starter_2/widgets/widget_card.svg?colors=4183c4,ffffff,ffffff,e3e9ed,666666,9b9b9b)](https://gitee.com/xian66/minecraft-optimal-starter_2)
 
 </div>
 
