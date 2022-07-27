@@ -18,7 +18,9 @@ Hi 👋 my name is David ²⁰²² (Xian66) ! 👋
   - [官网](https://skyworldstudio.top)
   - [GitHub](https://github.com/SkyWorldStudio)
   - [Gitee-已弃用](https://gitee.com/XYS-XiaoYiStudio)
-  - SkyWorldStudio工作室 简称：SWS 原名简称：XYS
+  - 其他名称
+      - SkyWorldStudio工作室简称：SWS 
+      - 原名简称：XYS
 - 📫  联系方式:
   - Email(工作室邮箱)-可能随时更换 请关注本页面: [david@skyworldstudio.top](mailto:david@skyworldstudio.top)
   - GitHub <https://github.com/xianyongjian080402>
