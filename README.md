@@ -12,8 +12,7 @@ Hi 👋 my name is David ²⁰²² (Xian66) ! 👋
   - CSS
   - Swift (学习中)
   - 渗透 (学习中)
-  - C (会一点)
-  - C++ (会一点)
+  - C (学习中)
 - 📔  我目前所属 SkyWorldStudio工作室(原名：XiaoYiStudio) 
   - [官网](https://skyworldstudio.top)
   - [GitHub](https://github.com/SkyWorldStudio)
