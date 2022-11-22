@@ -43,7 +43,7 @@ Hi 👋 my name is David ²⁰²² (Xian66) ! 👋
 
 <div align="center">
 
-|[![xianyongjian080402/Minecraft-Optimal-Starter_2](https://gitee.com/xian66/minecraft-optimal-starter_2/widgets/widget_card.svg?colors=4183c4,ffffff,ffffff,e3e9ed,666666,9b9b9b)](https://gitee.com/xian66/minecraft-optimal-starter_2)|
+|[![xianyongjian080402/Minecraft-Optimal-Starter_3](https://gitee.com/xian66/Minecraft-Optimal-Starter_3/widgets/widget_card.svg?colors=4183c4,ffffff,ffffff,e3e9ed,666666,9b9b9b)](https://gitee.com/xian66/Minecraft-Optimal-Starter_3)|
 | ---------------|
 
 </div>
