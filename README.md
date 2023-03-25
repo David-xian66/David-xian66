@@ -22,7 +22,8 @@ Hi 👋 my name is David ²⁰²² (Xian66) ! 👋
       - 原名简称：XYS
 - 📫  联系方式:
   - Email(工作室邮箱)-可能随时更换 请关注本页面: [david@skyworldstudio.top](mailto:david@skyworldstudio.top)
-  - GitHub <https://github.com/xianyongjian080402>
+  - GitHub <https://github.com/
+  >
   - Gitee <https://gitee.com/xian66>
   - Zhihu <https://www.zhihu.com/people/ren-zhe-ai-ren-8647>
   - 网易云音乐 <https://music.163.com/#/user/home?id=4967302911>
@@ -32,7 +33,7 @@ Hi 👋 my name is David ²⁰²² (Xian66) ! 👋
 
 <div align="center">
   
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&labelColor=black&color=inactive)](https://github.com/xianyongjian080402) [![Gitee](https://img.shields.io/badge/-Gitee-white?logo=Gitee&logoColor=white&labelColor=red&color=3D434E)](https://gitee.com/xian66)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&labelColor=black&color=inactive)](https://github.com/David-xian66) [![Gitee](https://img.shields.io/badge/-Gitee-white?logo=Gitee&logoColor=white&labelColor=red&color=3D434E)](https://gitee.com/xian66)
 
 <!--- 
 ![头像](https://portrait.gitee.com/uploads/avatars/user/3206/9618169_xian66_1643017327.png!avatar200)[![Top Langs](https://gitee.com/xian66/minecraft-optimal-starter_2/raw/master/picture/SkyWorldStudio.png)](https://github.com/SkyWorldStudio)
@@ -45,12 +46,12 @@ Hi 👋 my name is David ²⁰²² (Xian66) ! 👋
 
 <div align="center">
 
-|[![xianyongjian080402/Minecraft-Optimal-Starter_3](https://gitee.com/xian66/Minecraft-Optimal-Starter_3/widgets/widget_card.svg?colors=4183c4,ffffff,ffffff,e3e9ed,666666,9b9b9b)](https://gitee.com/xian66/Minecraft-Optimal-Starter_3)|
+|[![David-xian66/Minecraft-Optimal-Starter_3](https://gitee.com/xian66/Minecraft-Optimal-Starter_3/widgets/widget_card.svg?colors=4183c4,ffffff,ffffff,e3e9ed,666666,9b9b9b)](https://gitee.com/xian66/Minecraft-Optimal-Starter_3)|
 | ---------------|
 
 </div>
 
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xianyongjian080402&layout=compact&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|![Xian66's GitHub stats](https://github-readme-stats.vercel.app/api?username=xianyongjian080402&show_icons=true&theme=tokyonight&count_private=true&title_color=fff&bg_color=E0FFFF,87CEFA,1E90FF&text_color=FFEFD5&locale=cn&icon_color=DEB887&count_private=true)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-xian66&layout=compact&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|![Xian66's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-xian66&show_icons=true&theme=tokyonight&count_private=true&title_color=fff&bg_color=E0FFFF,87CEFA,1E90FF&text_color=FFEFD5&locale=cn&icon_color=DEB887&count_private=true)|
 | ------------- | ------------- |
 
 <!--
