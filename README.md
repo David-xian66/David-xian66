@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<img src="https://github.com/David-xian66/David-xian66/blob/main/github-metrics.svg">
+<img src="https://github.com/David-xian66/David-xian66/blob/master/github-metrics.svg">
   
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-xian66&layout=compact&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|![Xian66's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-xian66&show_icons=true&theme=tokyonight&count_private=true&title_color=fff&bg_color=E0FFFF,87CEFA,1E90FF&text_color=FFEFD5&locale=cn&icon_color=DEB887&count_private=true)|
 | ------------- | ------------- |
