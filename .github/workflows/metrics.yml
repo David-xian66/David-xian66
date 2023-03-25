@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.BOTTOKEN }}
 
           # Options
-          user: JeffersonQin
+          user: David-xian66
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Hong_Kong
