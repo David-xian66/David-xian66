@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2691" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2981" class="">
     <defs>
         <style/>
     </defs>
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.50m added, 3.60m removed
+                                    2.92m added, 2.21m removed
                                 </div>
                             </section>
                             <section>
@@ -223,7 +223,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    54 views in last two weeks
+                                    45 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -557,7 +557,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.41
+                            Average per day at ~0.42
                         </div>
                     </section>
                 </div>
@@ -2512,26 +2512,6 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2550,8 +2530,28 @@
                             <div class="entry">
                                 <span class="value">130</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                17
+                                13
                                 <div class="bottom">Mar.</div>
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                14
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                15
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                16
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                17
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2597,26 +2597,6 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 26
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                27
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                28
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                29
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                30
                             </div>
                         </div>
                     </section>
@@ -2626,8 +2606,28 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                17
+                                13
                                 <div class="bottom">Mar.</div>
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                14
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                15
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                16
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                17
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2673,26 +2673,6 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 26
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                27
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                28
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                29
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                30
                             </div>
                         </div>
                     </section>
@@ -2752,6 +2732,136 @@
 差不多得了，别在这淫想伟大的社区事业了，要刻个碑吗xd
                                         </i>
                                         嗯 对对对 你说的没错 反正你不是启动器开发者 代码不需要你写
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#10 BMCLAPI Banner 广告位支持</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by burningtnt in <span class="repo">MCLF-CN/docs</span></div>
+                                    <div class="comment">
+                                        <i>
+                                            <i>
+                                                <i>
+                                                    <i>
+                                                        <i>所以我就说变性质了啊
+你还不理解你在让 BMCLAPI 社区加什么吗
+你都说“提供收益”了，还不是盈利吗</i>
+                                                        我从未否认这个提案想要让 BMCLAPI 添加广告位，从而通过商业性的方式来吸引节点提供商。
+看起来我还要再强调一下商业性吸引节点提供商的必要性。
+                                                        <i>我随便从 BMCLAPI 找了几个到本评论发出为止今日承载了超 900G 的商业性节点所对应的运营商：
+
+https://bd.bangbang93.com/pages/rank/sponsor/65e45f0b818de365682e04d3?type=cluster
+https://bd.bangbang93.com/pages/rank/sponsor/65c4e29c58d2f715bbd6b374?type=cluster
+https://bd.bangbang93.com/pages/rank/sponsor/65d481e85f089c9f59b9a8d7?type=cluster</i>
+                                                        像这样的大节点，每日提供的带宽资源极大。我希望通过这样的广告来变相提升其收益，避免其退出 BMCLAPI。
+本提案的核心目的是让商业公司看到自己为 BMCLAPI 提供节点所获取到的收益。我最不想看到的就是商业性公司因提供了节点 ≈ 用爱发电，最终跑路。
+                                                    </i>
+                                                    BMCLAPI 的大前提和性质就是用爱发电 要干就来干不了就走的
+                                                </i>
+                                                BMCLAPI 没有“用爱发电”的大前提和性质。
+                                            </i>
+                                            没有也无妨，但是也不影响“要干能干就来，干不了就走”的主旨
+                                        </i>
+                                        我支持，人家商业公司想跑，你留是留不住的。
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#10 BMCLAPI Banner 广告位支持</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by burningtnt in <span class="repo">MCLF-CN/docs</span></div>
+                                    <div class="comment">
+                                        <i>
+                                            <i>所以我就说变性质了啊
+你还不理解你在让 BMCLAPI 社区加什么吗
+你都说“提供收益”了，还不是盈利吗</i>
+                                            我从未否认这个提案想要让 BMCLAPI 添加广告位，从而通过商业性的方式来吸引节点提供商。
+看起来我还要再强调一下商业性吸引节点提供商的必要性。
+                                            <i>我随便从 BMCLAPI 找了几个到本评论发出为止今日承载了超 900G 的商业性节点所对应的运营商：
+
+https://bd.bangbang93.com/pages/rank/sponsor/65e45f0b818de365682e04d3?type=cluster
+https://bd.bangbang93.com/pages/rank/sponsor/65c4e29c58d2f715bbd6b374?type=cluster
+https://bd.bangbang93.com/pages/rank/sponsor/65d481e85f089c9f59b9a8d7?type=cluster</i>
+                                            像这样的大节点，每日提供的带宽资源极大。我希望通过这样的广告来变相提升其收益，避免其退出 BMCLAPI。
+本提案的核心目的是让商业公司看到自己为 BMCLAPI 提供节点所获取到的收益。我最不想看到的就是商业性公司因提供了节点 ≈ 用爱发电，最终跑路。
+                                        </i>
+                                        <i>
+                                            David-xian66：请善用 Edit，避免大量内容重复发送导致刷屏。并，请保持友善交流
+                                            <i>你觉得，普通用户会因为你给bmclapi提供节点就来买你的服务器吗？？
+你觉得，普通用户用得着服务器吗
+你觉得，普通用户会用服务器吗？？
+我前几天在一个有同学的群里说服务器 有几个人过来问我“云服务器是干什么的”，“公网IP有什么用”</i>
+                                            对于面板服，它操作简单非常容易上手，绝大部分用户都能操作。这里绝对是有需求的。
+                                            <i>镜像源的运作本身是灰产，是违反 EULA 的再分发规则的
+如果要是树大招风把网易引来了，有咱们好果子吃的
+真的所谓商业公司要来参与这样有潜在风险的东西你就算开再多的广告都没人敢接</i>
+                                            <i>
+                                                支持bmcl API的节点需要大量的
+                                                <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                    <path fill="#292F33" d="M28.81 23.209c0-7.672-14.144-7.171-14.144-11.803 0-2.242 2.145-3.337 4.633-3.337 4.184 0 4.929 2.688 6.824 2.688 1.342 0 1.988-.845 1.988-1.792 0-2.201-3.337-3.867-6.537-4.444V2.397c0-1.325-1.072-2.4-2.398-2.4-1.327 0-2.4 1.075-2.4 2.4v2.199c-3.489.794-6.49 3.214-6.49 7.159 0 7.369 14.142 7.071 14.142 12.247 0 1.793-1.941 3.586-5.129 3.586-4.781 0-6.374-3.236-8.316-3.236-.946 0-1.792.796-1.792 1.996 0 1.906 3.195 4.2 7.588 4.841l-.003.015v2.397c0 1.326 1.075 2.401 2.401 2.401 1.325 0 2.399-1.075 2.399-2.401v-2.397c0-.028-.014-.05-.016-.075 3.953-.738 7.25-3.315 7.25-7.92z"/>
+                                                </svg>
+                                                ，成本价格已经远远大于收益，你觉得商业公司看得上这个收益吗？？
+你要不看看 一天2T流量，一个月60T流量需要多少钱再过来bb
+谁说 高流量 =&gt; 高曝光 一定会产生高收益的？？
+                                            </i>
+                                            我随便从 BMCLAPI 找了几个到本评论发出为止今日承载了超 900G 的商业性节点所对应的运营商：
+
+https://bd.bangbang93.com/pages/rank/sponsor/65e45f0b818de365682e04d3?type=cluster
+https://bd.bangbang93.com/pages/rank/sponsor/65c4e29c58d2f715bbd6b374?type=cluster
+https://bd.bangbang93.com/pages/rank/sponsor/65d481e85f089c9f59b9a8d7?type=cluster
+
+我希望通过这种方式，尽可能的让服务商有所收益。 你可以看 https://bd.bangbang93.com/pages/rank/clusters ，目前已经有一些商业性公司赞助。我希望通过合理的广告内容，从而产生良性循环，继续支持 BMCLAPI 的运转。
+                                        </i>
+                                        你就别“绝大部分用户都能操作”了，是 我承认“绝大部分用户都能操作” 但是真的有“绝大多数”用户需要吗
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#10 BMCLAPI Banner 广告位支持</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by burningtnt in <span class="repo">MCLF-CN/docs</span></div>
+                                    <div class="comment">
+                                        <i>
+                                            <i>我们不能要求别人无条件的提供高质量的节点，尤其是有些节点是商业公司付出真金白银提供的。
+甚至我觉得，在合法合规范围内，提供一定的广告以吸引人加入是非常值得的。
+如果有人看上了这一小块广告位，愿意提供足够的带宽来支持 Minecraft 国内的玩家。
+那才是真的双赢不是吗？</i>
+                                            说对了，本提案的提出背景就是因为 BMCLAPI 目前榜首的好几位都是为宣传自身，包含面板服租用、专用服务器租用、个人服务器等。我希望能够通过这样的方式，吸引商业性的公司加入项目。同时，通过仅在通过 BMCLAPI 下载时展示 Banner 的策略和 高流量 =&gt; 高曝光 =&gt; 高回报 的逻辑链条，在尽量不侵扰玩家正常使用和启动器口碑的情况下，保证公司的收益。
+我们必须面对一个现实，目前 BMCLAPI 中心节点全靠爱发电赞助，MCBBS 镜像下线之后，赞助才多起来；边缘节点目前完全靠爱发电，节点提供商唯一的曝光机会在 https://bd.bangbang93.com/pages/rank/clusters ，而普通用户根本看不到，甚至绝大部分用户都不知道自己的下载是 BMCLAPI 提供的。
+虽说这是一种广告，和某些人认为的“Open”不相符，但请试问，钱从哪里来？我相信，所有启动器作者，BMCLAPI 作者，大家，都希望中国大陆地区能够更流畅的下载 Minecraft。通过这样的广告位，是想吸引商业公司把自己的节点做好，从而期望获得高曝光来反哺自己的业务。岂不是双赢？
+                                        </i>
+                                        谁说 高流量 =&gt; 高曝光 一定会产生高收益的？？
                                     </div>
                                 </div>
                             </section>
@@ -2957,7 +3067,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.0609171800136763 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.21218343600273526 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3134,7 +3244,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 519k out of 133m users</span>
+                                    <span class="gh">ranked 518k out of 133m users</span>
                                 </div>
                                 <div class="text">Followed by 26 users</div>
                             </div>
@@ -3172,7 +3282,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 293k out of 72.1m repositories</span>
+                                    <span class="gh">ranked 292k out of 76.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 125 stars</div>
                             </div>
@@ -3218,7 +3328,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.65m out of 72.1m repositories</span>
+                                    <span class="gh">ranked 2.64m out of 76.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -3401,7 +3511,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Mar 2024, 16:29:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Mar 2024, 01:49:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
