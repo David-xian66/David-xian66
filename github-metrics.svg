@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2788" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2691" class="">
     <defs>
         <style/>
     </defs>
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.68m added, 3.69m removed
+                                    4.50m added, 3.60m removed
                                 </div>
                             </section>
                             <section>
@@ -2756,48 +2756,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#10 BMCLAPI Banner 广告位支持</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by burningtnt in <span class="repo">MCLF-CN/docs</span></div>
-                                    <div class="comment">
-                                        <i>
-                                            <i>
-                                                <i>
-                                                    <i>
-                                                        <i>所以我就说变性质了啊
-你还不理解你在让 BMCLAPI 社区加什么吗
-你都说“提供收益”了，还不是盈利吗</i>
-                                                        我从未否认这个提案想要让 BMCLAPI 添加广告位，从而通过商业性的方式来吸引节点提供商。
-看起来我还要再强调一下商业性吸引节点提供商的必要性。
-                                                        <i>我随便从 BMCLAPI 找了几个到本评论发出为止今日承载了超 900G 的商业性节点所对应的运营商：
-
-https://bd.bangbang93.com/pages/rank/sponsor/65e45f0b818de365682e04d3?type=cluster
-https://bd.bangbang93.com/pages/rank/sponsor/65c4e29c58d2f715bbd6b374?type=cluster
-https://bd.bangbang93.com/pages/rank/sponsor/65d481e85f089c9f59b9a8d7?type=cluster</i>
-                                                        像这样的大节点，每日提供的带宽资源极大。我希望通过这样的广告来变相提升其收益，避免其退出 BMCLAPI。
-本提案的核心目的是让商业公司看到自己为 BMCLAPI 提供节点所获取到的收益。我最不想看到的就是商业性公司因提供了节点 ≈ 用爱发电，最终跑路。
-                                                    </i>
-                                                    BMCLAPI 的大前提和性质就是用爱发电 要干就来干不了就走的
-                                                </i>
-                                                BMCLAPI 没有“用爱发电”的大前提和性质。
-                                            </i>
-                                            没有也无妨，但是也不影响“要干能干就来，干不了就走”的主旨
-                                        </i>
-                                        我支持，人家商业公司想跑，你留是留不住的。
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -3214,7 +3172,7 @@ https://bd.bangbang93.com/pages/rank/sponsor/65d481e85f089c9f59b9a8d7?type=clust
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 293k out of 82.9m repositories</span>
+                                    <span class="gh">ranked 293k out of 72.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 125 stars</div>
                             </div>
@@ -3260,7 +3218,7 @@ https://bd.bangbang93.com/pages/rank/sponsor/65d481e85f089c9f59b9a8d7?type=clust
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.65m out of 82.9m repositories</span>
+                                    <span class="gh">ranked 2.65m out of 72.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -3443,7 +3401,7 @@ https://bd.bangbang93.com/pages/rank/sponsor/65d481e85f089c9f59b9a8d7?type=clust
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Mar 2024, 16:15:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Mar 2024, 16:29:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
