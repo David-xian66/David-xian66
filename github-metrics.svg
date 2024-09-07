@@ -108,7 +108,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            276 issue comments
+                            277 issue comments
                         </div>
                     </section>
                     <section>
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.78m added, 1.35m removed
+                                    4.18m added, 3.52m removed
                                 </div>
                             </section>
                             <section>
@@ -223,7 +223,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    132 views in last two weeks
+                                    133 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -392,14 +392,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="255.22091734732984" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="255.22091734732984" y="0" width="116.06172139620492" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="371.28263874353473" y="0" width="27.376290139004606" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="398.6589288825393" y="0" width="25.822961801982515" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="424.48189068452183" y="0" width="17.15187522222405" height="8" fill="#aace60"/>
-                    <rect mask="url(#languages-bar)" x="441.6337659067459" y="0" width="11.406648105963498" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="453.0404140127094" y="0" width="4.228309234866875" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="457.26872324757625" y="0" width="2.7312767524237027" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="255.2209585291333" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="255.2209585291333" y="0" width="116.0617401236315" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="371.2826986527648" y="0" width="27.376294556373725" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="398.65899320913854" y="0" width="25.822965968710495" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="424.481959177849" y="0" width="17.15187798980737" height="8" fill="#aace60"/>
+                    <rect mask="url(#languages-bar)" x="441.6338371676564" y="0" width="11.406649946511463" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="453.0404871141679" y="0" width="4.228309917136188" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="457.268797031304" y="0" width="2.731202968695945" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2734,6 +2734,30 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#416 上行卡顿，下行通畅后续</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Haoson in <span class="repo">skywind3000/kcp</span></div>
+                                    <div class="comment">
+                                        <i>
+                                            <i>网络断开，请重新创建新的 kcp 对象，就像你 tcp 断开再连，内部状态机也是新的一样。</i>
+                                            这个肯定是这么做的。不过我上面描述的问题不是这个问题，我上面描述的是： 新建一个kcp对象之后，客户端服务器都是一个新的对象。此时客户端发送了一个ping包到服务器，服务器没收到，玩家自己手动关闭wifi在打开的时候，之前发送的这个ping包突然就被服务器收到了。根据包里面的时间来看，这个包是1min之前就发送了。 从现象上看，大概率是包积累在客户端，但是没真正发出去，后面玩家关闭wifi打开wifi的操作，不知道触发了什么，就把包发出去了
+                                        </i>
+                                        为什么没有可能是你发送出去后，ping包其实早就过了你的路由器了，已经从路由器向公网的服务器传输了，只是不知道为何，延迟很大
+你试试自己建立两个子局域网，子网1里的设备给子网2里的设备发送ping（这样排除下是不是我上面说的情况），你试一下，看看能不能复现问题
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -2803,29 +2827,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     <div class="content">
                                         Starred
                                         <span class="repo">pppscn/SmsForwarder</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#404 [Hope]: 后台被撤回的图片&amp;视频无法拦截，是QQ的限制吗？</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by jm3720343 in <span class="repo">LiteLoaderQQNT/LiteLoaderQQNT</span></div>
-                                    <div class="comment">
-                                        <i>
-                                            <i>要么是你没配置rkey，要么就是你还没下载到图，对方就撤回了。 另外，这不是框架的问题，请不要在框架仓库提issue</i>
-                                            抱歉……
-                                        </i>
-                                        你可以close了
                                     </div>
                                 </div>
                             </section>
@@ -3194,7 +3195,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 309k out of 216m repositories</span>
+                                    <span class="gh">ranked 309k out of 218m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 125 stars</div>
                             </div>
@@ -3325,7 +3326,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.74m out of 216m repositories</span>
+                                    <span class="gh">ranked 2.74m out of 218m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -3434,7 +3435,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Sept 2024, 18:09:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Sept 2024, 19:07:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
