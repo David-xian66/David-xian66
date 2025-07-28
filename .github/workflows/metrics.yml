@@ -1,8 +1,8 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # 120分钟一次
-  schedule: [{cron: "*/120 * * * *"}]
+  # 360分钟一次
+  schedule: [{cron: "*/360 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
