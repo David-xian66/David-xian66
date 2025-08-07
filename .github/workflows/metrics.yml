@@ -2,7 +2,8 @@
 name: Metrics
 on:
   # 360分钟一次
-  schedule: [{cron: "*/360 * * * *"}]
+  schedule:
+    - cron: '*/360 * * * *'  # 每 360 分钟运行一次
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
