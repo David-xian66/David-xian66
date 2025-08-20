@@ -9,7 +9,7 @@
 	<a href="https://stackoverflow.com/users/21285021/david-xian66"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?&style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
 </div>
 
-- 🔭  I'm currently a 15-year-old student in a junior high school.
+- 🔭  I'm currently a 18-year-old student in a junior high school.
 - 🌱  I'm currently learning rust and algorithm.
 - ⏰ 10:00 - 26:00 「[UTC+8](https://time.is/UTC+8)」
 - 🧠 What can I do?
